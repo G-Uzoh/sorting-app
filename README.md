@@ -1,8 +1,14 @@
-# React + Vite
+# Sorting app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- This is a simple sorting app that allows the user to input an array of comma-separated values and sorts the array using an algorithm of their choice (bubble sort or selection sort).
 
-Currently, two official plugins are available:
+## Setup
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- To get started, clone the repository and install necessary packages
+
+````js
+git clone [repo name]```
+
+```js
+npm install```
+````
