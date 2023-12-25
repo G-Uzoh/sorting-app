@@ -10,6 +10,6 @@
 git clone [repo name]
 ```
 
-````js
-npm install```
-````
+```js
+npm install
+```
