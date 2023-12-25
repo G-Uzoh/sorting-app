@@ -6,9 +6,10 @@
 
 - To get started, clone the repository and install necessary packages
 
-````js
-git clone [repo name]```
-
 ```js
+git clone [repo name]
+```
+
+````js
 npm install```
 ````
